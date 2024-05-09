@@ -16,7 +16,7 @@ google==3.0.0
 grpcio==1.42.0
 h5py==2.8.0
 horology==1.2.0
-idna==3.3
+idna==3.7
 imageio==2.10.1
 imageio-ffmpeg==0.4.5
 importlib-metadata==4.8.1
